@@ -6,4 +6,7 @@
 hugo_stats.json
 # Temporary lock file while building
 /.hugo_build.lock
-
+.hugo_build.lock
+.DS_Store
+themes/terminal/public
+themes/terminal/resources/_gen
