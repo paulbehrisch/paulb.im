@@ -71,7 +71,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Paul Behrisch"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = ""
     owner = "Paul Behrisch"
     keywords = ""
     copyright = ""
@@ -92,11 +92,6 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/"
-
-      [[languages.en.menu.main]]
-        identifier = "Resume"
-        name = "Resume"
-        url = "/resume.pdf"
 
       [[languages.en.menu.main]]
         identifier = "Linkedin"

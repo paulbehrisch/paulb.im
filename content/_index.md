@@ -1,10 +1,8 @@
-My name is **Paul Behrisch**. I'm a German 🇩🇪 **DevOps** and **Cloud engineer** living in the greater Toronto area, Canada 🇨🇦.
+Hi, I'm Paul Behrisch! I work at [me&u](https://www.meandu.com/) as a Staff Platform Engineer based in Sydney, Australia.
 
-Before moving to Canada, I worked in Australia 🇦🇺, Singapore 🇸🇬, Hong Kong 🇭🇰, Taiwan 🇹🇼, New Zealand 🇳🇿.
+With a decade of experience spanning multiple industries such as Banking, FinTech, Startups, Insurance, and the public sector, I bring a diverse and comprehensive background to the table.
 
-I have a decade of experience working across different industries including Banking, FinTech, Startups, Insurance as well as the public sector.
-
-I also hold various IT certifications including:
+I hold several advanced IT certifications, including:
 
 - AWS Solutions architect associate
 - Azure DevOps expert
